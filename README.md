@@ -1,4 +1,4 @@
-# sample-superstore
+# sample-superstore dataset
 
 *The highest order is received from william brown that is 37, and he has ordered the highest on office supplies (23).																							
 																																														
